@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yannan Wei (魏延南)"
+#title: "Yannan Wei (魏延南)"
 author_profile: true
 #description: "Ph.D. in ECE; research in 6G, vehicular networks, DRL, resource management"
 redirect_from: 
