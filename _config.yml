@@ -13,17 +13,17 @@ title                    : "Yannan Wei / Personal Website"
 title_separator          : "-"
 name                     : &name "Yannan Wei"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : https://yannanwei.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "yannanwei/yannanwei.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "photo_Yannan.jpg"
+  avatar           : "Yannan_profile_page.png"
   name             : "Yannan Wei"
   pronouns         : # example: "she/her"  
   bio              : "Extend the night to the best of I can!"
