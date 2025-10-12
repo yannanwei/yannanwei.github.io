@@ -1,7 +1,8 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "YANNAN WEI"
 author_profile: true
+description: "Ph.D. in ECE; research in 6G, vehicular networks, DRL, resource management"
 redirect_from: 
   - /about/
   - /about.html
@@ -9,7 +10,7 @@ redirect_from:
 
 Brief Introduction
 ===
-Yannan Wei (S'24, IEEE) received the Ph.D. degree in Electrical and Computer Engineering from the University of Waterloo, Canada, in 2025, under the supervision of Professor Weihua Zhuang
+Yannan Wei (S'24, IEEE) received the Ph.D. degree in Electrical and Computer Engineering from the University of Waterloo, Canada, in 2025, under the supervision of Professor **Weihua Zhuang**.
 
 
 Yannan Wei
