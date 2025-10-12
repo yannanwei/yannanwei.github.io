@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yannan Wei (魏延南)"
+#title: "Yannan Wei (魏延南)"
 author_profile: true
 #description: "Ph.D. in ECE; research in 6G, vehicular networks, DRL, resource management"
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<!--Brief Introduction-->
+# Brief Introduction
 **Yannan Wei** (S'24, IEEE) received the Ph.D. degree in Electrical and Computer Engineering from the University of Waterloo, Canada, in 2025, under the supervision of Professor **Weihua Zhuang**. His research interests include network intelligence, resource management, and service provisioning in future communication systems. He was a TPC member for 
 
 
