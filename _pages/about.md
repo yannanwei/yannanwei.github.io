@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 # Brief Introduction
-**Yannan Wei** (S'24, IEEE) received the Ph.D. degree in Electrical and Computer Engineering from the University of Waterloo, Canada, in 2025, under the supervision of Professor **Weihua Zhuang**. His research interests include network intelligence, resource management, and service provisioning in future communication systems. He was a TPC member for 
+**Yannan Wei** (S'24, IEEE) received the Ph.D. degree in Electrical and Computer Engineering from the University of Waterloo, Canada, in 2025, under the supervision of Professor **Weihua Zhuang (FIEEE, FRSC, FCAE, FEIC)**. His research interests include network intelligence, resource management, and service provisioning in future communication systems. He was a TPC member for 
 
 
 Yannan Wei
