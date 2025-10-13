@@ -5,17 +5,19 @@ permalink: /publications/
 author_profile: false
 ---
 <br>
-# <span style="font-family:Times New Roman;text-decoration:underline;color:rgb(0,0,1);">Journal & Magazine Papers</span>
+---
+# <span style="font-family:Times New Roman;text-decoration:underline;color:rgb(65,105,255);">Journal & Magazine Papers</span>
 ## 2025
   1. **Y. Wei**, Q. Ye, W. Zhuang and X. Shen, "Energy-efficient multi-user adaptive 360° video streaming: A two-step approach with device video super-resolution," *IEEE Transactions on Network Science and Engineering*, early access, Oct. 3, 2025, doi: 10.1109/TNSE.2025.3617381.
   2. 
 
 <br>
-# <span style="font-family:Times New Roman;text-decoration:underline;color:rgb(0,0,1);">Conference Papers</span>
-
+---
+# <span style="font-family:Times New Roman;text-decoration:underline;color:rgb(65,105,255);">Conference Papers</span>
 
 <br>
-# <span style="font-family:Times New Roman;text-decoration:underline;color:rgb(0,0,1);">Patents</span>
+---
+# <span style="font-family:Times New Roman;text-decoration:underline;color:rgb(65,105,255);">Patents</span>
 
 
 
