@@ -5,7 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
+# Publications
 
+## 2025
+- **Device-VSR-Assisted 360° Streaming with Edge Scheduling**
+  *IEEE GLOBECOM Workshops*, 2025.  
 
 <!--
 {% if site.author.googlescholar %}
