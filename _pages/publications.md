@@ -5,18 +5,16 @@ permalink: /publications/
 author_profile: false
 ---
 <br>
-# <span style="color:blue;">Journal & Magazine Papers</span>
-## <span style="font-family:Times New Roman;text-decoration:underline;">2025</span>
+# <span style="font-family:Times New Roman;text-decoration:underline;color:rgb(23,32,1);">Journal & Magazine Papers</span>
+## 2025
   1. Device-VSR-Assisted 360° Streaming with Edge Scheduling, *IEEE GLOBECOM Workshops*, 2025.
 
-
+<br>
 # Conference Papers
+
 
 <br>
 # Patents
-
-
-
 
 
 
