@@ -1,14 +1,38 @@
 ---
-layout: single
-title: "Publications"
+layout: archive
+title: "Publications (\# indicates the corresponding author)"
 permalink: /publications/
 author_profile: false
 ---
 
-# Journal papers
+
+# Journal & Magazine Papers
 ## 2025
-- **Device-VSR-Assisted 360° Streaming with Edge Scheduling**
-  *IEEE GLOBECOM Workshops*, 2025.  
+- Device-VSR-Assisted 360° Streaming with Edge Scheduling, *IEEE GLOBECOM Workshops*, 2025.
+
+
+# Conference Papers
+
+
+# Patents
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 {% comment %}
 <!-- publications.html -->
