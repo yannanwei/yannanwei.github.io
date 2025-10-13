@@ -4,19 +4,26 @@ title: "Publications (# indicates the corresponding author)"
 permalink: /publications/
 author_profile: false
 ---
+
 <br>
-<hr style="border: none; height: 2px; background-color: #999; margin: 20px 0;">
+
+<hr style="border-top:2px dashed rgb(65,105,255); width:80%; margin:25px auto;">
+
 # <span style="font-family:Times New Roman;text-decoration:underline;color:rgb(65,105,255);">Journal & Magazine Papers</span>
 ## 2025
   1. **Y. Wei**, Q. Ye, W. Zhuang and X. Shen, "Energy-efficient multi-user adaptive 360° video streaming: A two-step approach with device video super-resolution," *IEEE Transactions on Network Science and Engineering*, early access, Oct. 3, 2025, doi: 10.1109/TNSE.2025.3617381.
   2. 
 
 <br>
-<hr style="border: none; height: 2px; background-color: #999; margin: 20px 0;">
+
+<hr style="border-top:2px dashed rgb(65,105,255); width:80%; margin:25px auto;">
+
 # <span style="font-family:Times New Roman;text-decoration:underline;color:rgb(65,105,255);">Conference Papers</span>
 
 <br>
-<hr style="border: none; height: 2px; background-color: #999; margin: 20px 0;">
+
+<hr style="border-top:2px dashed rgb(65,105,255); width:80%; margin:25px auto;">
+
 # <span style="font-family:Times New Roman;text-decoration:underline;color:rgb(65,105,255);">Patents</span>
 
 
