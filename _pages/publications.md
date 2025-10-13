@@ -4,11 +4,11 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 redirect_from:
-  - /publications
+  - /publications/
+  - /publications.html
 ---
 
-
-Education
+Journal
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 * M.S. in Jekyll, GitHub University, 2014
