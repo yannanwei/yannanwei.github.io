@@ -7,7 +7,7 @@ author_profile: false
 
 <br>
 
-<hr style="border:none; height:2px; background-color:rgb(245,245,245); margin:20px auto;">
+<!--<hr style="border:none; height:2px; background-color:rgb(245,245,245); margin:20px auto;">-->
 
 # <span style="font-family:Times New Roman;text-decoration:underline;color:rgb(65,105,255);">Journal & Magazine Papers</span>
 ## 2025
@@ -16,13 +16,13 @@ author_profile: false
 
 <br>
 
-<hr style="border:none; height:2px; background-color:rgb(245,245,245); margin:20px auto;">
+<!--<hr style="border:none; height:2px; background-color:rgb(245,245,245); margin:20px auto;">-->
 
 # <span style="font-family:Times New Roman;text-decoration:underline;color:rgb(65,105,255);">Conference Papers</span>
 
 <br>
 
-<hr style="border:none; height:2px; background-color:rgb(245,245,245); margin:20px auto;">
+<!--<hr style="border:none; height:2px; background-color:rgb(245,245,245); margin:20px auto;">-->
 
 # <span style="font-family:Times New Roman;text-decoration:underline;color:rgb(65,105,255);">Patents</span>
 
