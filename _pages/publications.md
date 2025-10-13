@@ -5,16 +5,17 @@ permalink: /publications/
 author_profile: false
 ---
 <br>
-# <span style="font-family:Times New Roman;text-decoration:underline;color:rgb(23,32,1);">Journal & Magazine Papers</span>
+# <span style="font-family:Times New Roman;text-decoration:underline;color:rgb(0,0,1);">Journal & Magazine Papers</span>
 ## 2025
-  1. Device-VSR-Assisted 360° Streaming with Edge Scheduling, *IEEE GLOBECOM Workshops*, 2025.
+  1. **Y. Wei**, Q. Ye, W. Zhuang and X. Shen, "Energy-efficient multi-user adaptive 360° video streaming: A two-step approach with device video super-resolution," *IEEE Transactions on Network Science and Engineering*, early access, Oct. 3, 2025, doi: 10.1109/TNSE.2025.3617381.
+  2. 
 
 <br>
-# Conference Papers
+# <span style="font-family:Times New Roman;text-decoration:underline;color:rgb(0,0,1);">Conference Papers</span>
 
 
 <br>
-# Patents
+# <span style="font-family:Times New Roman;text-decoration:underline;color:rgb(0,0,1);">Patents</span>
 
 
 
