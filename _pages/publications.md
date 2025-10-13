@@ -11,7 +11,8 @@ author_profile: true
 - **Device-VSR-Assisted 360° Streaming with Edge Scheduling**
   *IEEE GLOBECOM Workshops*, 2025.  
 
-<!--
+{% comment %}
+<!-- publications.html -->
 {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
@@ -38,6 +39,4 @@ author_profile: true
     {% include archive-single.html %}
   {% endfor %}
 {% endif %}
--->
-
-
+{% endcomment %}
