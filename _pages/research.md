@@ -4,7 +4,6 @@ title: "Research"
 permalink: /research/
 author_profile: false
 ---
-
 <br>
 
 <!--<hr style="border:none; height:2px; background-color:rgb(245,245,245); margin:20px auto;">-->
