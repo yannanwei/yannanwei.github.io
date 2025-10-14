@@ -9,6 +9,20 @@ redirect_from:
 
 <br>
 
+You can find my CV [here](../files/Yannan_Wei_CV.pdf).
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 {% comment %}
