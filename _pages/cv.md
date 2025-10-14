@@ -6,9 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
 <br>
-
 You can find my CV [here](../files/Yannan_Wei_CV.pdf).
 
 
