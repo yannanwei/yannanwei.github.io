@@ -4,7 +4,6 @@ title: "Publications (# indicates the corresponding author)"
 permalink: /publications/
 author_profile: false
 ---
-
 <br>
 
 <!--<hr style="border:none; height:2px; background-color:rgb(245,245,245); margin:20px auto;">-->
@@ -20,7 +19,6 @@ author_profile: false
   2. 唐伦, **魏延南#**, 马润琳, 贺小雨, 陈前斌. 虚拟化云无线接入网络下基于在线学习的网络切片虚拟资源分配算法[J]. 电子与信息学报, 2019, 41(7): 1533-1539. doi: 10.11999/JEIT180771
   3. L. Tang, **Y. Wei#**, et al., "Queue-aware dynamic resource reuse and joint allocation algorithm in self-backhaul small cell networks," *IEEE Access*, vol. 6, pp. 61077-61090, 2018.
   4. L. Tang, **Y. Wei#**, et al., "Delay-aware dynamic resource allocation and ABS configuration algorithm in HetNets based on Lyapunov optimization," *IEEE Access*, vol. 5, pp. 23764-23775, 2017.
-
 <br>
 
 <!--<hr style="border:none; height:2px; background-color:rgb(245,245,245); margin:20px auto;">-->
@@ -31,7 +29,6 @@ author_profile: false
 
 ## 2024
   1. **Y. Wei**, Q. Ye, K. Qu, W. Zhuang and X. S. Shen, "Transmission protocol customization for on-demand tile-based 360° VR video streaming," in *Proc. IEEE/CIC International Conference on Communications in China (ICCC)*, Hangzhou, China, July 2024. **<span style="color:rgb(227,23,13);">(Best Paper Award)</span>**
-
 <br>
 
 <!--<hr style="border:none; height:2px; background-color:rgb(245,245,245); margin:20px auto;">-->
