@@ -4,7 +4,6 @@ title: "Publications (# indicates the corresponding author)"
 permalink: /publications/
 author_profile: false
 ---
-<br>
 
 <!--<hr style="border:none; height:2px; background-color:rgb(245,245,245); margin:20px auto;">-->
 
