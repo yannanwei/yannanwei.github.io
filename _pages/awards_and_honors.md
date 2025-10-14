@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Awards and Honors"
+title: "Selected Awards and Honors"
 permalink: /awards_and_honors/
 author_profile: false
 ---
@@ -12,7 +12,17 @@ author_profile: false
 - Best Paper Award, IEEE/CIC ICCC, 2024
 - Xuemin Shen Graduate Scholarship, University of Waterloo, 2022/2024
 - Jon W. Mark Graduate Scholarship, University of Waterloo, 2021
-- 
+- Graduate Research Studentship, University of Waterloo, 2020 – 2025
+- International Doctoral Student Award, University of Waterloo, 2020 – 2024
+- Huawei Graduate Entrance Award, University of Waterloo, 2020
+- 重庆市优秀毕业生, 重庆, 中国, 2017/2020
+- 国家奖学金, 中国, 2016/2019
+- 重庆市优秀学生干部, 重庆, 中国, 2015
+
+
+
+
+
 
 <!--
 # <span style="font-family:Times New Roman;text-decoration:underline;color:rgb(25,25,112);">Journal & Magazine Papers</span>
