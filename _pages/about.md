@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "**Welcome!**"
+title: "Welcome!"
 author_profile: true
 #description: "Ph.D. in ECE; research in 6G, vehicular networks, DRL, resource management"
 redirect_from: 
@@ -12,6 +12,14 @@ redirect_from:
 **Yannan Wei** (S'24, IEEE) received the Ph.D. degree in Electrical and Computer Engineering from the University of Waterloo, Canada, in 2025, under the supervision of Professor **Weihua Zhuang (FIEEE, FRSC, FCAE, FEIC)**. His research interests include network intelligence, resource management, and service provisioning in future communication systems. He was a TPC member for the 2024 IEEE VTC-fall and the 2023 IEEE ICCT. He received the Best Paper Award at the 2024 IEEE CIC/ICCC.
 
 # Recent News
+
+
+
+
+
+
+
+
 
 <!--
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
