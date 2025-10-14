@@ -30,7 +30,7 @@ author_profile: false
   1. **Y. Wei**, Q. Ye, W. Zhuang and X. Shen, "Energy-efficient multi-user adaptive 360° video streaming with device video super-resolution", in *Proc. IEEE Globecom Workshops (GC Wkshps)*, Taipei, Taiwan, to appear.
 
 ## 2024
-  1. **Y. Wei**, Q. Ye, K. Qu, W. Zhuang and X. S. Shen, "Transmission protocol customization for on-demand tile-based 360° VR video streaming," in *Proc. IEEE/CIC International Conference on Communications in China (ICCC)*, Hangzhou, China, July 2024. <span style="color:rgb(227,23,13);">(Best Paper Award)</span>
+  1. **Y. Wei**, Q. Ye, K. Qu, W. Zhuang and X. S. Shen, "Transmission protocol customization for on-demand tile-based 360° VR video streaming," in *Proc. IEEE/CIC International Conference on Communications in China (ICCC)*, Hangzhou, China, July 2024. **<span style="color:rgb(227,23,13);">(Best Paper Award)</span>**
 
 <br>
 
