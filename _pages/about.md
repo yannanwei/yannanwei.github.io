@@ -12,7 +12,7 @@ redirect_from:
 **Yannan Wei** (S'24, IEEE) received the Ph.D. degree in Electrical and Computer Engineering from the University of Waterloo, Canada, in 2025, under the supervision of Professor **Weihua Zhuang (FIEEE, FRSC, FCAE, FEIC)**. His research interests include network intelligence, resource management, and service provisioning in future communication systems. He was a TPC member for the 2024 IEEE VTC-fall and the 2023 IEEE ICCT. He received the Best Paper Award at the 2024 IEEE CIC/ICCC.
 
 # Recent News
-
+- *2025.10.16* 我开始学习LLM了，希望能坚持下来，为工作打好基础，开辟新的研究方向。加油！
 
 
 
