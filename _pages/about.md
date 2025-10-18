@@ -13,6 +13,7 @@ redirect_from:
 
 # Recent News
 - *2025.10.16* 我开始学习LLM了，希望能坚持下来，为工作打好基础，开辟新的研究方向。加油！
+- *2025.10.17-18* 基于Happy-LLM第二章和Hungyi Lee的attention/transformer视频，基本搞清楚了transformer-related原理和代码结构，比如layer-norm, FNN, residual connection, (masked) multi-head attention (QKV), tokenizer, embedding/positional encoding, encoder, decoder, and teacher-forcing-based (parallel) training. 接下来，看Happy-LLM 第三第四章，争取早日掌握fine-tuning基本原理。同时，从此阶段，侧重于实战实践，这是逃不了的，魏延南加油，靠你自己，相信你自己！
 
 
 
